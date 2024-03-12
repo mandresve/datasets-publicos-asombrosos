@@ -17,9 +17,3 @@ Agradecimientos especiales a
 .. image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/logo/baiyulan.PNG
    :alt: BaiYuLanAI
    :target: https://github.com/Bai-Yu-Lan
-
-.. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
-.. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
-
-* |OK_ICON| El conjunto de datoks está bien.
-* |FIXME_ICON| El conjunto de datos necesita reparaciones.
