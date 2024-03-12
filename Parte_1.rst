@@ -339,15 +339,6 @@ EarthScience
         
 * |OK_ICON| `Wellhead Protection Area (protection zone) prediction using breakthrough curves - This [...] <https://www.kaggle.com/datasets/robustus/whpa-prediction>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/WHPA.yml>`_]
 
-eSports
--------
-        
-* |OK_ICON| `CS:GO Competitive Matchmaking Data - In this data set we have data about the CSGO matchmaking [...] <https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/csgo.yml>`_]
-        
-* |OK_ICON| `FIFA-2021 Complete Player Dataset <https://www.kaggle.com/aayushmishra1512/fifa-2021-complete-player-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/fifa2021.yml>`_]
-        
-* |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/opendota-dump.yml>`_]
-
 Economics
 ---------
         
@@ -416,14 +407,3 @@ Economics
 * |OK_ICON| `World Input-Output Database - World Input-Output Tables and underlying data, covering 43 [...] <https://www.rug.nl/ggdc/valuechain/wiod/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World Input-Output Database.yml>`_]
         
 * |OK_ICON| `World KLEMS - Analytical KLEMS-type data sets for a broad set of countries around the world. [...] <https://www.worldklems.net/wkanalytical>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World KLEMS.yml>`_]
-    
-Education
----------
-        
-* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
-        
-* |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
-        
-* |FIXME_ICON| `Program for International Student Assessement (PISA) - Contains 15-year-old students' [...] <https://www.oecd.org/pisa/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/PISA.yml>`_]
-        
-* |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Student-Data-from-Free-Code-Camp.yml>`_]
