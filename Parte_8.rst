@@ -29,6 +29,15 @@ Software
 * |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
+
+eSports
+-------
+        
+* |OK_ICON| `CS:GO Competitive Matchmaking Data - In this data set we have data about the CSGO matchmaking [...] <https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/csgo.yml>`_]
+        
+* |OK_ICON| `FIFA-2021 Complete Player Dataset <https://www.kaggle.com/aayushmishra1512/fifa-2021-complete-player-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/fifa2021.yml>`_]
+        
+* |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/opendota-dump.yml>`_]
     
 Sports
 ------
