@@ -307,3 +307,43 @@ DataChallenges
 * |FIXME_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TunedIT.yml>`_]
         
 * |OK_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
+
+EarthScience
+------------
+        
+* |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their manually extracted [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/38-Cloud.yml>`_]
+        
+* |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/AQUASTAT.yml>`_]
+        
+* |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/BODC.yml>`_]
+        
+* |OK_ICON| `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/EOSDIS.yml>`_]
+        
+* |OK_ICON| `Earth Models <https://www.earthmodels.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Earth-Models.yml>`_]
+        
+* |OK_ICON| `Global Wind Atlas - The Global Wind Atlas is a free, web-based application developed to help [...] <https://globalwindatlas.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Global-Wind-Atlas.yml>`_]
+        
+* |OK_ICON| `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Integrated-Marine-Observing-System-IMOS.yml>`_]
+        
+* |FIXME_ICON| `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Marinexplore.yml>`_]
+        
+* |FIXME_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/MyMobileBay.yml>`_]
+        
+* |OK_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - long-term estuarine [...] <http://nerrsdata.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/NERRS-SWMP.yml>`_]
+        
+* |OK_ICON| `Oil and Gas Authority Open Data - The dataset covers 12,500 offshore wellbores, 5,000 seismic [...] <https://data-ogauthority.opendata.arcgis.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Oil-and-Gas-Authority-UK.yml>`_]
+        
+* |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
+        
+* |OK_ICON| `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/USGS-Earthquake-Archives.yml>`_]
+        
+* |OK_ICON| `Wellhead Protection Area (protection zone) prediction using breakthrough curves - This [...] <https://www.kaggle.com/datasets/robustus/whpa-prediction>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/WHPA.yml>`_]
+
+eSports
+-------
+        
+* |OK_ICON| `CS:GO Competitive Matchmaking Data - In this data set we have data about the CSGO matchmaking [...] <https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/csgo.yml>`_]
+        
+* |OK_ICON| `FIFA-2021 Complete Player Dataset <https://www.kaggle.com/aayushmishra1512/fifa-2021-complete-player-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/fifa2021.yml>`_]
+        
+* |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/opendota-dump.yml>`_]
