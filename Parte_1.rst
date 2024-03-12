@@ -230,3 +230,80 @@ ComplexNetworks
 * |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
         
 * |FIXME_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
+
+ComputerNetworks
+----------------
+        
+* |OK_ICON| `3.5B Web Pages from CommonCrawl 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/3.5B-Web-Pages-from-CommonCrawl-2012.yml>`_]
+        
+* |OK_ICON| `53.5B Web clicks of 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/53.5B-Web-clicks-of-100K-users-in-Indiana-Univ..yml>`_]
+        
+* |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`_]
+        
+* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
+        
+* |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
+        
+* |OK_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
+        
+* |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
+        
+* |OK_ICON| `Shopper Intent Prediction from Clickstream E‑Commerce Data with Minimal Browsing Information <https://github.com/coveooss/shopper-intent-prediction-nature-2020>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Coveo-Shopper-Intent-Prediction.yaml>`_]
+        
+* |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Criteo-click-through-data.yml>`_]
+        
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
+        
+* |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic analysis with [...] <http://traffic.comics.unina.it/mirage/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/MIRAGE-2019.yml>`_]
+        
+* |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/OONI-Open-Observatory-of-Network-Interference.yml>`_]
+        
+* |OK_ICON| `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Open-Mobile-Data-by-MobiPerf.yml>`_]
+        
+* |OK_ICON| `The Peer-to-Peer Trace Archive - Real-world measurements play a key role in studying the [...] <http://p2pta.ewi.tudelft.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/P2P-Trace-Archive.yml>`_]
+        
+* |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
+        
+* |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/UCSD-Network-Telescope-IPv4-slash8-net.yml>`_]
+    
+CyberSecurity
+-------------
+        
+* |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
+        
+* |OK_ICON| `Traffic and Log Data Captured During a Cyber Defense Exercise - This dataset was acquired [...] <https://zenodo.org/record/3746129>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Traffic-and-Log-Data-Captured-During-a-Cyber-Defense-Exercise.yml>`_]
+    
+DataChallenges
+--------------
+        
+* |OK_ICON| `AIcrowd Competitions <https://www.aicrowd.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/AIcrowd-Competitions.yml>`_]
+        
+* |OK_ICON| `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Bruteforce-Database.yml>`_]
+        
+* |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Challenges-in-Machine-Learning.yml>`_]
+        
+* |FIXME_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/CrowdANALYTIX-dataX.yml>`_]
+        
+* |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/D4D-Challenge-of-Orange.yml>`_]
+        
+* |OK_ICON| `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/DrivenData-Competitions-for-Social-Good.yml>`_]
+        
+* |OK_ICON| `ICWSM Data Challenge (since 2009) <https://www.icwsm.org/2018/datasets/datasets/#obtaining>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/ICWSM-Data-Challenge-since-2009.yml>`_]
+        
+* |OK_ICON| `KDD Cup by Tencent 2012 <http://www.kddcup2012.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/KDD-Cup-by-Tencent-2012.yml>`_]
+        
+* |OK_ICON| `Kaggle Competition Data <https://www.kaggle.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Kaggle-Competition-Data.yml>`_]
+        
+* |OK_ICON| `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Localytics-Data-Visualization-Challenge.yml>`_]
+        
+* |OK_ICON| `Netflix Prize <https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Netflix-Prize.yml>`_]
+        
+* |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Space-Apps-Challenge.yml>`_]
+        
+* |FIXME_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Telecom-Italia-Big-Data-Challenge.yml>`_]
+        
+* |FIXME_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
+        
+* |FIXME_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TunedIT.yml>`_]
+        
+* |OK_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
