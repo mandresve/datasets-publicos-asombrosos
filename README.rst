@@ -20,3 +20,4 @@ Agradecimientos especiales a
 
 Lista de Contenidos
 -------------------
+* `Parte 1 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_1.rst>`_ contiene datos de Agricultura, Arquitectura, Biología, Química, Variables climáticas, Redes complejas, redes de computadores, ciberseguridad y retos de datos.
