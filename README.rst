@@ -21,3 +21,12 @@ Agradecimientos especiales a
 Lista de Contenidos
 -------------------
 * `Parte 1 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_1.rst>`_ contiene datos de Agricultura, Arquitectura, Biología, Química, Variables climáticas, Redes complejas, redes de computadores, ciberseguridad y retos de datos.
+
+* `Parte 2 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_2.rst>`_ contiene datos de Economía, Educación, Energía, Entretenimiento, Finanzas, y Sistemas de Referenciación Geográfica (GIS).
+
+* `Parte 3 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_3.rst>`_ contiene datos de Gobierno y sociedad.
+* `Parte 4 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_4.rst>`_ contiene datos de Salud.
+* `Parte 5 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_5.rst>`_ contiene datos para realizar Procesamiento de Imágenes, Problemas variados de Machine Learning, datos de Museos, Lenguaje Natural, Neurociencias, y Física.
+* `Parte 6 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_6.rst>`_ contiene datos acerca del Cáncer de Próstata, Psicología y Cognición.
+* `Parte 7 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_7.rst>`_ contiene datos de Dominio Público, Redes Sociales, Buscadores Web, y Ciencias Sociales.
+* `Parte 8 <https://github.com/mandresve/datasets-publicos-asombrosos/blob/master/Parte_8.rst>`_ contiene datos de Software, Deportes, Series de Tiempo, y Transporte.
