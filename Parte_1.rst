@@ -476,8 +476,3 @@ Energy
 * |OK_ICON| `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/WHITED.yml>`_]
         
 * |OK_ICON| `iAWE <http://iawe.github.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/iAWE.yml>`_]
-    
-Entertainment
--------------
-        
-* |OK_ICON| `Top Streamers on Twitch - This contains data of Top 1000 Streamers from past year. <https://www.kaggle.com/aayushmishra1512/twitchdata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/TwitchStreamersData.yml>`_]
